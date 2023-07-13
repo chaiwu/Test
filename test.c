@@ -6,7 +6,7 @@ int main()
 
     printf("main test\n");
     printf("first modify\n");
-    printf("branch newtest!\n");
+    printf("branch newtest! hahaha\n");
     hello();
     return 0;
 }
