@@ -1,6 +1,6 @@
 #ifndef __SORT__
 #define __SORT__
-/* 以下排序默认由小到大，若想反过来将最后一个参数写为 - 1 */
+/* 排序由小到大 order = 1，若想反过来将order = - 1 */
 
 /* bubble sort */
 void BubbleSort(int array[], int len, int order);
